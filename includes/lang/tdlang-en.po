@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tdlang\n"
+"POT-Creation-Date: 2017-05-06 19:24+0200\n"
+"PO-Revision-Date: 2017-05-06 19:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: includes/admin-day.php:1
+msgid "Tab por dia"
+msgstr "Daily Tab"
+
+#: includes/admin-day.php:1
+msgid "Custom Tabs"
+msgstr "Custom Tabs"
+
+#: includes/admin-day.php:1
+msgid "Configurar tabs por día"
+msgstr "Configuration of daily tab"
+
+#: includes/admin-day.php:1
+msgid ""
+"Selecciona un post para cada dia, se utilizara el contenido del post como "
+"contenido del tab, el shortcode es:"
+msgstr ""
+"Select a post for each day, using the content of the post as content of the "
+"tab, the shortcode is:"
+
+#: includes/admin-day.php:1 includes/class/tabManager.php:53
+msgid "Lunes"
+msgstr "Monday"
+
+#: includes/admin-day.php:1
+msgid "Pagina"
+msgstr "Page"
+
+#: includes/admin-day.php:1 includes/cpt-tabs.php:135
+msgid "Icono"
+msgstr "Icon"
+
+#: includes/admin-day.php:1 includes/cpt-tabs.php:148 includes/cpt-tabs.php:163
+#: includes/cpt-tabs.php:181
+msgid "Elegir"
+msgstr "Choose"
+
+#: includes/admin-day.php:1 includes/class/tabManager.php:54
+msgid "Martes"
+msgstr "Tuesday"
+
+#: includes/admin-day.php:1 includes/class/tabManager.php:55
+msgid "Miercoles"
+msgstr "Wednesday"
+
+#: includes/admin-day.php:1 includes/class/tabManager.php:56
+msgid "Jueves"
+msgstr "Thursday"
+
+#: includes/admin-day.php:1 includes/class/tabManager.php:57
+msgid "Viernes"
+msgstr "Friday"
+
+#: includes/admin-day.php:1 includes/class/tabManager.php:58
+msgid "Sabado"
+msgstr "Saturday"
+
+#: includes/admin-day.php:1 includes/class/tabManager.php:59
+msgid "Domingo"
+msgstr "Sunday"
+
+#: includes/admin-day.php:1 includes/cpt-tabs.php:86
+msgid "Color de fondo"
+msgstr "Background color"
+
+#: includes/admin-day.php:1 includes/cpt-tabs.php:88
+msgid "Color de texto"
+msgstr "Text color"
+
+#: includes/admin-day.php:1 includes/cpt-tabs.php:90
+msgid "Color de Activo"
+msgstr "Active color"
+
+#: includes/admin-day.php:1 includes/cpt-tabs.php:92
+msgid "Color de hover"
+msgstr "Hover color"
+
+#: includes/admin-day.php:1 includes/cpt-tabs.php:94
+msgid "Color de iconos"
+msgstr "Icon color"
+
+#: includes/admin-day.php:1
+msgid "Opciones generales shortcode variable"
+msgstr "General options variable shortcode"
+
+#: includes/admin-day.php:1
+msgid "Configuracion de los TabShortcodes(admin)"
+msgstr "Configuration of the TabShortcodes (admin)"
+
+#: includes/admin-day.php:1
+msgid "Borrar datos al desinstalar"
+msgstr "Delete options on delete."
+
+#: includes/admin-day.php:1
+msgid "Usar posts"
+msgstr "Use posts instead example texts(not recomended)"
+
+#: includes/admin-day.php:1
+msgid "Guardar"
+msgstr "Save"
+
+#: includes/cpt-tabs.php:14 includes/cpt-tabs.php:16 includes/cpt-tabs.php:18
+#: includes/cpt-tabs.php:56
+msgid "Tab Shortcode"
+msgstr "Tab Shortcode"
+
+#: includes/cpt-tabs.php:15
+msgid "Tab Shortcodes"
+msgstr "Tab Shortcodes"
+
+#: includes/cpt-tabs.php:17
+msgid "Lista de TS"
+msgstr "TS List"
+
+#: includes/cpt-tabs.php:19 includes/cpt-tabs.php:21
+msgid "Nuevo TabShortcode"
+msgstr "New TabShortcode"
+
+#: includes/cpt-tabs.php:20
+msgid "Crear Nuevo TabShortcode"
+msgstr "New TabShortcode"
+
+#: includes/cpt-tabs.php:22
+msgid "Editar TabShortcode"
+msgstr "Edit TabShortcode"
+
+#: includes/cpt-tabs.php:23
+msgid "Ver TabShortcode"
+msgstr "See TabShortcode"
+
+#: includes/cpt-tabs.php:24
+msgid "Buscar TabShortcode"
+msgstr "Search TabShortcode"
+
+#: includes/cpt-tabs.php:25
+msgid "No se han encontrado TabShortcodes."
+msgstr "No TabShortcodes found"
+
+#: includes/cpt-tabs.php:26
+msgid "No se han encontrado TabShortcodes en la Papelera."
+msgstr "No TabShortcodes found in trash"
+
+#: includes/cpt-tabs.php:57
+msgid "Opciones"
+msgstr "Options"
+
+#: includes/cpt-tabs.php:58
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/cpt-tabs.php:59
+msgid "Ejemplo"
+msgstr "Example"
+
+#: includes/cpt-tabs.php:68
+msgid "Resultado"
+msgstr "Result"
+
+#: includes/cpt-tabs.php:130
+msgid "Minimo 2, máximo 10 (por ahora)"
+msgstr "Mínimum 2, maximum 10 (by now)"
+
+#: includes/cpt-tabs.php:136
+msgid "Nombre tab"
+msgstr "Tab Name"
+
+#: includes/cpt-tabs.php:137
+msgid "Página a mostrar"
+msgstr "Page to show"
+
+#: main.php:16
+msgid ""
+"Instala dos shortcodes, uno fijo para un tab diario y otro para tabs a "
+"medida."
+msgstr ""
+"Installs two new shortcodes, one for a daily tab and another for custom tabs "
+"full configurable."
+
+#: main.php:70
+msgid "Configuración"
+msgstr "Configuration"
+
+#: main.php:75
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
